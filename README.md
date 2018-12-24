@@ -54,3 +54,5 @@ sudo pip3 install scapy
 ```
 sudo python3 ssid-sybil.py
 ```
+
+![Example of WiFi scan from an Android phone](/example.jpeg)
